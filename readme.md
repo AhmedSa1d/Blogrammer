@@ -23,7 +23,7 @@ Blogrammer uses this packages to enhance the project security and add some featu
 ### todo
 
 - [x] Add user name and image to posts 
-- [x] Add the categories to navbar
+- [ ] Add the categories to navbar
 - [ ] Make multi role authentication 
 - [ ] Nested comments ( replay on comments)
 - [ ] Use  Event and listener to send mail
